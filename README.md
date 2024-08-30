@@ -67,7 +67,7 @@ jobs:
           jsonArtifact: '/home/runner/work/cypress-test-summary/cypress-test-summary/ouput.json'
 ```
 
-Currently when providing jsonArtifact, [it is hardcoded to be picked from `__tests__/output.json`](https://github.com/layer5labs/cypress-test-summary/blob/cc8868d300584f31dc9d03724535d58b419ab147/src/main.ts#L13), so you can move your json file here in this folder once generated. 
+Currently when providing jsonArtifact, [it is hardcoded to be picked from `__tests__/output.json`](https://github.com/khulnasofts/cypress-test-summary/blob/cc8868d300584f31dc9d03724535d58b419ab147/src/main.ts#L13), so you can move your json file here in this folder once generated. 
 
 ## Code in Main
 
@@ -153,7 +153,7 @@ with:
   milliseconds: 1000
 ```
 
-See the [actions tab](https://github.com/layer5labs/cypress-test-summary/actions) for runs of this action! :rocket:
+See the [actions tab](https://github.com/khulnasofts/cypress-test-summary/actions) for runs of this action! :rocket:
 
 ## Usage:
 

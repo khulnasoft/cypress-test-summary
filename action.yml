@@ -1,6 +1,6 @@
 name: 'cypress-test-sumary'
 description: 'Cypress test summary table'
-author: Layer5
+author: KhulnaSoft
 inputs:
   jsonInput:  # id of input
     description: 'Test output in json'
